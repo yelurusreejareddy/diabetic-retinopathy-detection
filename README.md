@@ -7,6 +7,12 @@ with wavelet-based feature extraction, SMOTE oversampling, and PCA dimensionalit
 
 diaretdb0 - a public fundus image benchmark with train/test splits defined by text files.
 
+## Files Included
+
+- diabetic_retinopathy_svm_rf.ipynb - full pipeline from feature extraction to evaluation
+
+Note: diaretdb0 dataset not included.
+
 ## Pipeline
 
 1. Load fundus images and convert to grayscale
