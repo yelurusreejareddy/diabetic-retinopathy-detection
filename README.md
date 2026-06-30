@@ -10,6 +10,7 @@ diaretdb0 - a public fundus image benchmark with train/test splits defined by te
 ## Files Included
 
 - diabetic_retinopathy_svm_rf.ipynb - full pipeline from feature extraction to evaluation
+- presentation.pdf - project presentation slides
 
 Note: diaretdb0 dataset not included.
 
